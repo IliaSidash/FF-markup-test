@@ -16,7 +16,7 @@
   4. Инспользуйте [normalize.css](https://necolas.github.io/normalize.css/) для нормализации стилей.
 
 ---
-## Верстка форма регистрации**
+## Верстка формы регистрации**
 
   Ссылка на [макет](https://www.figma.com/file/XLogxL9eYkORuxN4FFRSgY/FF-Registration?node-id=0%3A1) 
   
