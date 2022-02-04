@@ -5,8 +5,8 @@
 
 Результаты в виде ссылки на репозиторий присылайте на почту i.sidash@tradernet.com c темой письма **"Тестовое задание на позицию верстальщика"**
 
----
-##  Верстка лендинга
+
+## I. Верстка лендинга
   Ссылка на [макет](https://www.figma.com/file/9z9FOPCaPVozVPDUI2o6nQ/FF-Landing?node-id=2%3A2614)
   
   ### Технические требования:
@@ -15,8 +15,8 @@
   3. Не используйте CSS-фреймворки.
   4. Инспользуйте [normalize.css](https://necolas.github.io/normalize.css/) для нормализации стилей.
 
----
-## Верстка формы регистрации
+
+## II. Верстка формы регистрации
 
   Ссылка на [макет](https://www.figma.com/file/XLogxL9eYkORuxN4FFRSgY/FF-Registration?node-id=0%3A1) 
   
